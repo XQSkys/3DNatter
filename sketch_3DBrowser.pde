@@ -198,7 +198,7 @@ ambientLight(102, 102, 102);
         if ( speed.hasValue(aim)==true) {
         speed.remove(0);
         speeds3++;
-        link("https://google.de");
+        link("https://www.google.com/search?q="+mapaim3);
         
       }
       
